@@ -1,0 +1,21 @@
+{
+  "name": "evaljs-now",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Michał <michalvichy@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "start": "next start",
+    "build": "next build",
+    "yolo": "./bash.sh"
+  },
+  "dependencies": {
+    "micro": "^9.3.4",
+    "next": "^9.0.7",
+    "querystring": "^0.2.0",
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1",
+    "vm2": "^3.8.4"
+  }
+}
